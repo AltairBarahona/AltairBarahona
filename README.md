@@ -1,18 +1,27 @@
-### Hola, soy Altair 👋
+<h1 align="center">Hola, soy Altair 👋</h1>
+<p align="center">
+  Founder de <b>ALTASOFT</b> · Software inmersivo XR/VR/AR · IA aplicada<br>
+  <i>"No aprendí IA para hablar de ella. La usé para construir, vender y cobrar."</i>
+</p>
 
-Founder de **ALTASOFT**, agencia de software inmersivo en Quito, Ecuador.
-Construyo experiencias XR/VR/AR y capacito equipos en IA aplicada.
+<p align="center">
+  <a href="https://altairbarahona.com"><img src="https://img.shields.io/badge/altairbarahona.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/altair-barahona/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:corporativo@altasoft-ec.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-> No aprendí IA para hablar de ella. La usé para construir, vender y cobrar.
+---
 
-**En qué estoy ahora**
-- Desarrollo XR y apps para clientes en ALTASOFT
-- Workshops y capacitaciones corporativas en IA y Claude Code
-- Maestría en Inteligencia Artificial Aplicada (UDLA)
+### 🚀 En qué estoy ahora
+- 🥽 Desarrollo XR y apps para clientes en **ALTASOFT**
+- 🤖 Workshops y capacitaciones corporativas en IA y **Claude Code**
+- 🎓 Maestría en Inteligencia Artificial Aplicada (UDLA)
 
-**Stack:** Flutter/Dart · Unity/C# · Firebase · Supabase · MongoDB · AWS · Azure
+### 🛠️ Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,firebase,supabase,mongodb,aws,azure,nodejs,js" />
+</p>
 
-**Contacto**
-🌐 [altairbarahona.com](https://altairbarahona.com) ·
-💼 [LinkedIn](https://www.linkedin.com/in/altair-barahona/) ·
-✉️ corporativo@altasoft-ec.com
+### ⭐ Proyectos destacados
+- [**curso-lab**](https://github.com/AltairBarahona/curso-lab): laboratorio de práctica con Claude Code, con retos y verificadores de aceptación
+- [**FICA_AR**](https://github.com/AltairBarahona/FICA_AR): realidad aumentada web con AR.js para las carreras de la FICA, UDLA
