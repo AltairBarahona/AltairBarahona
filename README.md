@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola, soy Altair 👋
 
-<!--
-**AltairBarahona/AltairBarahona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder de **ALTASOFT**, agencia de software inmersivo en Quito, Ecuador.
+Construyo experiencias XR/VR/AR y capacito equipos en IA aplicada.
 
-Here are some ideas to get you started:
+> No aprendí IA para hablar de ella. La usé para construir, vender y cobrar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**En qué estoy ahora**
+- Desarrollo XR y apps para clientes en ALTASOFT
+- Workshops y capacitaciones corporativas en IA y Claude Code
+- Maestría en Inteligencia Artificial Aplicada (UDLA)
+
+**Stack:** Flutter/Dart · Unity/C# · Firebase · Supabase · MongoDB · AWS · Azure
+
+**Contacto**
+🌐 [altairbarahona.com](https://altairbarahona.com) ·
+💼 [LinkedIn](https://www.linkedin.com/in/altair-barahona/) ·
+✉️ corporativo@altasoft-ec.com
